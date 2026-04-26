@@ -1,6 +1,6 @@
 cask "lockdown-vpn" do
   version "0.1.0"
-  sha256 "9fe904442a985d0526a2b8ce07d35fe5e2bb1d412227f54a2a4e3dab608caec8"
+  sha256 "459e8c7f19923c63578e4bcbb72be233d2a1641d422adef95f3e4edd9144c26c"
 
   url "https://github.com/maksimzinchuk/lockdown/releases/download/v#{version}/Lockdown-#{version}.zip",
       verified: "github.com/maksimzinchuk/lockdown/"
